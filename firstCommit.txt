@@ -1,2 +1,6 @@
+
 some text for conflict
 some new text for merge conflict
+
+some new text for conflict
+
